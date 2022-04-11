@@ -26,11 +26,12 @@
   }
 
   .blue-box {
-    background-color: blue;
     margin-top: 40px;
     margin-right: 20px;
-    margin-bottom: 20px;
-    margin-left: 40px;
+     margin-bottom: 20px;
+      margin-left: 40px;
+
+    background-color: blue;
     color: #fff;
   }
 </style>
